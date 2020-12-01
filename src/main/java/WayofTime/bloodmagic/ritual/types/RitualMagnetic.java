@@ -124,12 +124,12 @@ public class RitualMagnetic extends Ritual {
 
     @Override
     public int getRefreshTime() {
-        return 40;
+        return 5;
     }
 
     @Override
     public int getRefreshCost() {
-        return 50;
+        return 666;
     }
 
     @Override
